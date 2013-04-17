@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ting</string>
+    <string name="action_settings">Cofiguración</string>
+    <string name="tab_title_rss">avisos</string>
+    <string name="tab_title_calendar">eventos</string>
+    <string name="tab_title_info">info</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="rss_date">Data</string>
+    <string name="rss_description">Descrición</string>
+    <string name="rss_title">Título</string>
+
+</resources>
